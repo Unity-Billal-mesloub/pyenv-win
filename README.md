@@ -226,7 +226,7 @@ Please see the [Changelog](./docs/changelog.md) page.
 
 ## Bug Tracker and Support
 
-- Please report any suggestions, bug reports, or annoyances with pyenv-win through the [GitHub bug tracker](https://github.com/pyenv-win/pyenv-win/issues).
+- Please report any suggestions, bug reports, or annoyances with pyenv-win through the [GitHub bug tracker](https://github.com/Unity-Billal-mesloub/pyenv-win/issues).
 
 ## License and Copyright
 
@@ -236,9 +236,9 @@ Please see the [Changelog](./docs/changelog.md) page.
 
 ## Author and Thanks
 
-pyenv-win was developed by [Kiran Kumar Kotari](https://github.com/kirankotari) and [Contributors](https://github.com/pyenv-win/pyenv-win/graphs/contributors)
+pyenv-win was developed by [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub) and [Contributors](https://github.com/Unity-Billal-mesloub/pyenv-win/graphs/contributors)
 Thanks for all Contributors and Supports for patience for the latest major release.
 
-[1]: https://github.com/pyenv/pyenv
-[2]: https://github.com/rbenv/rbenv
-[3]: https://github.com/nak1114/rbenv-win
+[1]: https://github.com/Unity-Billal-mesloub/pyenv
+[2]: https://github.com/Unity-Billal-mesloub/rbenv
+[3]: https://github.com/Unity-Billal-mesloub/rbenv-win
